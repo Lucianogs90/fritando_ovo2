@@ -7,7 +7,7 @@ export default function Header() {
       <h1>
         Fritando ovo
         <br />
-        Receitas fáceis
+        <span>Receitas fáceis</span>
       </h1>
     </header>
   );
